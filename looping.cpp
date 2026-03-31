@@ -59,3 +59,7 @@ int main(){
         status = "Tidak Lulus";
     cout<<"Status Kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
+//Logika OR
+#include <iostream>
+using namespace std;
+
