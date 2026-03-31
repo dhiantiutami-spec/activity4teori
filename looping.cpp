@@ -68,5 +68,9 @@ int main(){
     string status;
 
     cout<<"Masukkan nilai Matematika = ";
-    cin>>nilM
+    cin>>nilM;
+    cout<<"Masukkan nilai Bahasa Inggris = ";
+    cin>>nilB;
+
+    rerata = (nilB+nilM)/2;
 }
