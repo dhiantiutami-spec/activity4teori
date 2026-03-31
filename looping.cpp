@@ -53,6 +53,6 @@ int main(){
     cin>>nilB;
 
     rerata = (nilB+nilM)/2;
-
-    if ()
+    if (!(rerata < 60) )
+        status = "Lulus";
 }
